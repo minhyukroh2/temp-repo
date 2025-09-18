@@ -1,21 +1,14 @@
 [lab3.md](https://github.com/user-attachments/files/22399378/lab3.md)
 # My Project Plan
 
-Note: This document is written merely as an illustrative example, and does not provide
-
+***Note:*** This document is written merely as an illustrative example, and does not provide
 any working guide to an actual project.
 
-
 ### Proposal
-
 ---
-
 I am planning to make a computer vision software that detects objects in images.
-
 In order to build it, I will use opencv, deep learning libraries, such as [TensorFlow](https://www.tensorflow.org/)
-
 or [PyTorch](https://pytorch.org/), and other open source softwares.
-
 
 For example, the objects in the following images were detected using [mmdetection](https://github.com/open-mmlab/mmdetection):
 
@@ -24,24 +17,16 @@ For example, the objects in the following images were detected using [mmdetectio
 ---
 
 ### Dependencies
-
 * python
-
 * opencv-python
-
 * tensorflow
-
 * openmmlab
-
 * package manager
-
 
 ### Installation
 
 In a bash terminal, run the following commands (Do NOT actually run these commands in
-
 your computer):
-
 
 ```bash
 $ sudo apt update 
@@ -51,6 +36,3 @@ $ python --version
 $ python example.py
 ```
 
-https://www.tensorflow.org/  
-https://pytorch.org/  
-https://github.com/open-mmlab/mmdetection
