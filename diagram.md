@@ -16,8 +16,12 @@ graph TD
         H -- "실시간 SQL 조회" --> D;
     end
 
-    style A fill:#d4edda,stroke:#155724
-    style H fill:#cce5ff,stroke:#004085
-    style G fill:#f8d7da,stroke:#721c24
-    style D fill:#fff3cd,stroke:#856404
+    style A fill:#d4edda,stroke:#155724,color:#000
+    style B fill:#f8f9fa,stroke:#343a40,color:#000
+    style C fill:#e0f7fa,stroke:#006064,color:#000
+    style D fill:#fff3cd,stroke:#856404,color:#000
+    style E fill:#e9ecef,stroke:#343a40,color:#000
+    style F fill:#e9ecef,stroke:#343a40,color:#000
+    style G fill:#f8d7da,stroke:#721c24,color:#000
+    style H fill:#cce5ff,stroke:#004085,color:#000
 ```
